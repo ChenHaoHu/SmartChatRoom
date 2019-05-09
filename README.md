@@ -1,6 +1,12 @@
 # SmartChatRoom
 
 
+
+![展示图](show.gif)
+
+
+
+
 主体项目：  https://github.com/ChenHaoHu/tools
 
 此项目为上述项目的一个实践，使用**vue**编写
