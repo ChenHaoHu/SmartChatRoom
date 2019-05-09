@@ -1,29 +1,16 @@
-# smartchat
+# SmartChatRoom
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+主体项目：  https://github.com/ChenHaoHu/tools
 
-### Compiles and minifies for production
-```
-npm run build
-```
+此项目为上述项目的一个实践，使用**vue**编写
 
-### Run your tests
-```
-npm run test
-```
+> 实现功能：
+* 智能聊天
+* 语音聊天
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> 开发者:
+* https://github.com/ChenHaoHu/   后端研发
+* https://github.com/kzhcb      前端研发
+
