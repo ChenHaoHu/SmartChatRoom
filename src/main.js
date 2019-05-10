@@ -9,7 +9,7 @@ Vue.use(MintUI)
 Vue.use(ElementUI)
 import axios from 'axios'
 Vue.prototype.$http = axios.create({
-baseURL:'http://www.hcyang.top:8080/v1'
+baseURL:'https://api.hcyang.top/v1'
 
 })
 Vue.config.productionTip = false
