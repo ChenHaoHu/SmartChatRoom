@@ -7,7 +7,7 @@
 
 
 
-主体项目：  https://github.com/ChenHaoHu/tools
+后端项目：  https://github.com/ChenHaoHu/tools
 
 此项目为上述项目的一个实践，使用**vue**编写
 
