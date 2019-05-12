@@ -9,6 +9,8 @@
 
 后端项目: https://github.com/ChenHaoHu/tools
 
+把玩地址：https://www.cqkzms.top/smartchat/
+
 此项目为上述项目的一个实践，使用**vue**编写
 
 > 实现功能：
